@@ -1,0 +1,22 @@
+{"mc":{
+	"effect_fire":{
+		"frameRate":12,
+		"labels":[
+			{"name":"effect","frame":1,"end":1}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"s1",
+			"x":-16,
+			"y":-7
+			}
+			]
+}},
+	"res":{
+		"s1":{"x":1,"y":1,"w":32,"h":139}
+	}}
