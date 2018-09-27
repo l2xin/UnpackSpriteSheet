@@ -1,0 +1,2 @@
+python _unpack_json_laya_atlas.py E:\_github\Python\UnpackSpriteSheet\UnpackSpriteSheetLayaAtlas
+pause
